@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints
+*.ipynb
+BERT/
+logs/
+results/
+*.csv
+*.pkl
+*.json
+*.xlsx
